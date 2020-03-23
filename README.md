@@ -1,2 +1,11 @@
 # SukhSaans
-Open Source Mechanical Ventilator using Ambu Bag &amp; Arduino
+Open Source Mechanical Ventilator using Ambu Bag &amp; Arduino to help people struggling for medical aid. It's low cost ($60-80) easy to make and use. 
+# Components
+Arduino 1
+Servo Motor (Mrtal Geared High torque) 1
+Servo Driver 1
+Ambu Bag 1 (Any Available, preferable medium or adult size)
+16-2 LCD (Optional) 1
+Potentiometers 3 (10k or any other available)
+Voltage Regulator / Power Supply (To power Arduino, Servo and other components)
+Breadboard / Veroboard / PCB
