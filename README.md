@@ -9,4 +9,4 @@ Ambu Bag 1 (Any Available, preferable medium or adult size)\
 16-2 LCD (Optional) 1\
 Potentiometers 3 (10k or any other available)\
 Voltage Regulator / Power Supply (To power Arduino, Servo and other components)\
-Breadboard / Veroboard / PCB\
+Breadboard / Veroboard / PCB
