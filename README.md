@@ -1,7 +1,8 @@
 # Sukh Ka Saans
 Open Source Mechanical Ventilator using Ambu Bag &amp; Arduino to help people struggling for medical aid in pandemic situations like COVID-19. It's low cost ($60-80) easy to make and use.\
 It is strap based design which squeezes the bag with servo motor rotation and measures tidal volume with servo motor position.  
-There are three knobs which control  
+  
+There are three knobs which control:
 1. Tidal Volume  
 2. BPM (Breath per minute) rate
 3. LCD brightness and Visuals
