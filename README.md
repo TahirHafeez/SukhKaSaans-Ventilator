@@ -7,8 +7,9 @@ It is strap based design which squeezes the bag with servo motor rotation and me
 ![](schematics.png)
 
 # Components
-1. Arduino 1  
+1. Arduino 1(Use any available like UNO, Mega, Nano, esp8266 etc,)  
 2. Servo Motor (Metal Geared High torque) 1  
+**Do not use mg996r/946.. Atleast use 40kg/cm torque motor. I am using 60kg motor. **  
 3. Servo Driver 1 (Optional)  
 4. Ambu Bag 1 (Any Available, preferable medium or adult size)  
 5. 16-2 LCD (Optional) 1  
